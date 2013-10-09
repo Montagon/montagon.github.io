@@ -295,6 +295,7 @@ blockquote {
 }
 
 ul li {
+  color: #000000;
   list-style: disc inside;
   padding-left: 20px;
 }
