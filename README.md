@@ -1,4 +1,2 @@
-Página personal
+Github web
 ===============
-
-Hola, muy buenas, esto es una prueba.
